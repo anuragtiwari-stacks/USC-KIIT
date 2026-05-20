@@ -26,13 +26,13 @@ public class AlphabetCrossPattern
 {
     public static void printPattern(int n)
     {
-        for(int i = 0; i < n; i++)
+        for(int i=0; i<n; i++)
         {
             char ch = (char)('A' + i);
 
-            for(int j = 0; j < n; j++)
+            for(int j=0; j<n; j++)
             {
-                if(j == i || j == n - i - 1)
+                if(j==i || j == n-i-1)
                 {
                     System.out.print(ch);
                 }
