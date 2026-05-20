@@ -11,19 +11,19 @@ public class MoveZero_End
 
         for(int i = 0; i < n; i++)
         {
-            if (arr[i] != 0)
+            if(arr[i] != 0)
             {
                 brr[index] = arr[i];
                 index++;
             }
 
-            if (arr[i] == 0)
+            if(arr[i] == 0)
             {
                 count++;
             }
         }
 
-        for (int i = 1; i <= count; i++)
+        for(int i = 1; i <= count; i++)
         {
             brr[index] = 0;
             index++;
@@ -34,7 +34,7 @@ public class MoveZero_End
 
     public static void printArray(int[] arr)
     {
-        for (int num : arr)
+        for(int num : arr)
         {
             System.out.print(num + " ");
         }
