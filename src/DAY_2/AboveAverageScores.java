@@ -23,7 +23,7 @@ public class AboveAverageScores
             sum = sum+arr[i];
         }
 
-        double avg = (double) sum/arr.length;
+        double avg = (double)sum/arr.length;
 
         int count = 0;
 
