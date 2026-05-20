@@ -1,3 +1,11 @@
+/*
+Given an integer array,
+move all the zeroes to the end of the array while maintaining the relative order of the non-zero elements.
+
+Your task is to create a new array where:
+all non-zero elements appear first in the same order,
+followed by all zeroes at the end.
+*/
 package DAY_1;
 
 public class MoveZero_End

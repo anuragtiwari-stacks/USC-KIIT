@@ -1,3 +1,12 @@
+/*
+A teacher is checking the marks of students in a class.
+She wants to know whether any two students have scored the same marks.
+Your task is to determine if the array contains any duplicate marks.
+
+Return:
+"YES" if duplicate marks exist
+"NO" otherwise
+*/
 package DAY_1;
 
 import java.util.HashSet;
