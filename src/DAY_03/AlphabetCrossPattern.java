@@ -20,7 +20,7 @@ A***A
 E***E
 */
 
-package DAY_3;
+package DAY_03;
 
 public class AlphabetCrossPattern
 {

@@ -1,4 +1,4 @@
-package DAY_8;
+package DAY_08;
 
 public class XorBalance
 {

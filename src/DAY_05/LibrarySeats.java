@@ -1,4 +1,4 @@
-package DAY_5;/*
+package DAY_05;/*
 Problem Statement
 During exam week, Sneha is trying to find the quietest seats in the college library.
 

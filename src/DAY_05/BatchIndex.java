@@ -1,4 +1,4 @@
-package DAY_5;
+package DAY_05;
 
 /*
 Problem Statement

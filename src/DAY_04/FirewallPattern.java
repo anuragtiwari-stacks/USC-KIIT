@@ -1,4 +1,4 @@
-package DAY_4;
+package DAY_04;
 
 public class FirewallPattern
 {

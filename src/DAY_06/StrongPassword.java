@@ -17,7 +17,7 @@ Print "STRONG" if the password satisfies all conditions.
 Otherwise, print "WEAK".
 */
 
-package DAY_6;
+package DAY_06;
 
 public class StrongPassword
 {

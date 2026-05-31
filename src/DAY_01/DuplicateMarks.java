@@ -7,7 +7,7 @@ Return:
 "YES" if duplicate marks exist
 "NO" otherwise
 */
-package DAY_1;
+package DAY_01;
 
 import java.util.HashSet;
 

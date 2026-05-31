@@ -7,7 +7,7 @@ Otherwise print "NO".
 Main Diagonal Condition: i == j
 Secondary Diagonal Condition: i + j == n - 1 */
 
-package DAY_6;
+package DAY_06;
 
 public class DiagonalEnergyGrid
 {

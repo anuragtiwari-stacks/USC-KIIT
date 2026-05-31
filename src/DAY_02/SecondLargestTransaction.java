@@ -13,7 +13,7 @@ What is the next biggest transaction she should be looking at?
 Your task is to find the second largest distinct number in the list.
 */
 
-package DAY_2;
+package DAY_02;
 
 public class SecondLargestTransaction
 {

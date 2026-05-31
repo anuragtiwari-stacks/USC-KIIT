@@ -1,4 +1,4 @@
-package DAY_7;
+package DAY_07;
 import java.util.*;
 
 public class Anagram

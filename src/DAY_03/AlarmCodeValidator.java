@@ -12,7 +12,7 @@ Help Ansuman determine:
 - Otherwise → print "INVALID" along with the first index where repetition occurs.
 */
 
-package DAY_3;
+package DAY_03;
 
 public class AlarmCodeValidator
 {

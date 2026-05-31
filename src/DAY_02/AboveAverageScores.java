@@ -10,7 +10,7 @@ Your task is to help Nitin determine how many players scored
 strictly above the average of all n scores.
 */
 
-package DAY_2;
+package DAY_02;
 
 public class AboveAverageScores
 {

@@ -6,7 +6,7 @@ Your task is to create a new array where:
 all non-zero elements appear first in the same order,
 followed by all zeroes at the end.
 */
-package DAY_1;
+package DAY_01;
 
 public class MoveZero_End
 {
