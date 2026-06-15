@@ -1,6 +1,6 @@
 package DAY_29;
 
-public class _2StringMatching_Recursion
+public class StringMatching_Recursion
 {
     public static String cleanCaption(String s)
     {
