@@ -2,7 +2,7 @@ package DAY_29;
 
 import java.util.Stack;
 
-public class _2StringMatching_Stack
+public class StringMatching_Stack
 {
     public static String cleanCaption(String s)
     {
